@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A fullstack student from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelbarroslima&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelbarroslima" /> </p>
-
 - 🌱 I’m currently learning **Html5, Css3, Javascript & NodeJs**
 
 - 👯 I’m looking to collaborate on **front end & Backend development with Html5, CSS, JavaScript & NodeJs**
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-lima-51212898/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rafael-lima-51212898/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafael-lima-51212898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafael-lima-51212898" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelbarroslima&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="rafaelbarroslima" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelbarroslima&show_icons=true&theme=dark&title_color=000000&locale=pt-br" alt="rafaelbarroslima" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbarroslima&theme=dark" alt="rafaelbarroslima" /></p>
