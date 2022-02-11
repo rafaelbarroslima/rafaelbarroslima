@@ -1,22 +1,36 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A fullstack student from Brazil</h3>
+## Olá, eu sou o Rafael Barros
 
-- 🌱 I’m currently learning **Html5, Css3, Javascript & NodeJs**
+💻 Acadêmico: Análise e desenvolvimento de sistemas (ADS) pela AMPLI.
 
-- 👯 I’m looking to collaborate on **front end & Backend development with Html5, CSS, JavaScript & NodeJs**
+👨‍🎓 Início dessa jornada: Fevereiro/2022.
 
-- 📫 How to reach me **rafael.o.lima51@gmail.com**
+🖋️ As vezes as coisas demoram, mas acontecem. O importante é saber esperar e não perder a fé.
 
-- ⚡ Fun fact **I like nature and calm**
+🙍‍♂️ Atual motorista de aplicativo, futuro programador.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rafael-lima-51212898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafael-lima-51212898" height="30" width="40" /></a>
-</p>
+🦊 Só se vê bem com o coração, o essencial é invisível aos olhos. - O Pequeno príncipe
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://github.com/rafaelbarroslima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarroslima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarroslima&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-NodeJs" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+</div>
+  
+##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelbarroslima&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="rafaelbarroslima" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelbarroslima&show_icons=true&theme=dark&title_color=000000&locale=pt-br" alt="rafaelbarroslima" /></p>
+<div>
+    <a href="https://www.linkedin.com/in/rafael-lima-51212898/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rafael.o.lima51@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaelbarroslimaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+   ![Snake animation](https://github.com/rafaelbarroslima/rafaelbarroslima/blob/output/github-contribution-grid-snake.svg)
+</div>
