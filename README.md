@@ -1,16 +1,13 @@
-## Olá, eu sou o Rafael Barros
+## Rafael Barros
 
-💻 Acadêmico: Análise e desenvolvimento de sistemas (ADS) pela AMPLI.
+<div>
+    <a href="https://www.linkedin.com/in/rafael-lima-51212898/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rafael.o.lima51@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-👨‍🎓 Início dessa jornada: Fevereiro/2022.
+##
 
-🖋️ As vezes as coisas demoram, mas acontecem. O importante é saber esperar e não perder a fé.
-
-🙍‍♂️ Atual motorista de aplicativo, futuro programador.
-
-🦊 Só se vê bem com o coração, o essencial é invisível aos olhos. - O Pequeno príncipe
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/rafaelbarroslima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarroslima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarroslima&layout=compact&langs_count=7&theme=radical"/>
@@ -26,10 +23,3 @@
 </div>
   
 ##
-
-<div>
-    <a href="https://www.linkedin.com/in/rafael-lima-51212898/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rafael.o.lima51@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaelbarroslimaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-</div>
